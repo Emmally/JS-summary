@@ -6,4 +6,4 @@
 4. [检查多个数字区间是否有重叠](https://github.com/Emmally/JS-summary/wiki/%E6%A3%80%E6%9F%A5%E5%A4%9A%E4%B8%AA%E6%95%B0%E5%AD%97%E5%8C%BA%E9%97%B4%E6%98%AF%E5%90%A6%E6%9C%89%E9%87%8D%E5%8F%A0)
 5. [检查时间段是否有重叠](https://github.com/Emmally/JS-summary/wiki/%E6%A3%80%E6%9F%A5%E6%97%B6%E9%97%B4%E6%AE%B5%E6%98%AF%E5%90%A6%E6%9C%89%E9%87%8D%E5%8F%A0)
 6. [获取文件名后缀](https://github.com/Emmally/JS-summary/wiki/%E8%8E%B7%E5%8F%96%E6%96%87%E4%BB%B6%E5%90%8D%E5%90%8E%E7%BC%80)
-
+7. [将具有父子关系的数据转换为树形结构的数组](https://github.com/Emmally/JS-summary/wiki/%E5%B0%86%E5%85%B7%E6%9C%89%E7%88%B6%E5%AD%90%E5%85%B3%E7%B3%BB%E7%9A%84%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%8D%A2%E4%B8%BA%E6%A0%91%E5%BD%A2%E7%BB%93%E6%9E%84%E7%9A%84%E6%95%B0%E7%BB%84)
