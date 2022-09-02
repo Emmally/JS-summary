@@ -1,4 +1,4 @@
-# JS通用方法汇总
+# JavaScript通用方法汇总
 
 1. [JS加减乘除计算精度处理](https://github.com/Emmally/JS-summary/wiki/JS%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E8%AE%A1%E7%AE%97%E7%B2%BE%E5%BA%A6%E5%A4%84%E7%90%86)
 2. [从身份证号中识别年龄、生日、性别](https://github.com/Emmally/JS-summary/wiki/%E4%BB%8E%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E4%B8%AD%E8%AF%86%E5%88%AB%E5%B9%B4%E9%BE%84%E3%80%81%E7%94%9F%E6%97%A5%E3%80%81%E6%80%A7%E5%88%AB)
